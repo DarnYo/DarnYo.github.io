@@ -116,6 +116,13 @@ video{
 	height: auto;
 	min-width: 140px;
 }
+.centervideo{
+	display: block;
+	width: auto;
+	margin: auto;
+	margin-block-start: 1em;
+    margin-block-end: 1em;
+}
 section{
 	display: flex;
 	margin-block-start: 1em;
