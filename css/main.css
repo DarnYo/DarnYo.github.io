@@ -96,10 +96,10 @@ a{
 	font-size: 160%;
 	position: absolute;
 	bottom: 10px;
-	left: 5px;
+	left: 10px;
 	opacity: 0.8;
 	padding-bottom: 0;
-    text-shadow: 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black;
+    text-shadow: 0 0 4px black, 0 0 4px black, 0 0 4px black, 0 0 4px black, 0 0 4px black;
 }
 .portfolio-items img{
 	width: 100%;
